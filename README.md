@@ -15,7 +15,7 @@ Before running this script:
 
 - **Command**: Run the script with elevated privileges:
   ```bash
-  sudo python3 script_name.py
+  sudo python3 driveSpeedTest.py
   ```
 
 ## Features
