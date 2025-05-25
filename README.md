@@ -1,4 +1,4 @@
-# driveSpeedTest
+# DriveSpeedTest
 A simple Python program to test the speed of a drive.
 # Drive Performance Testing Script
 
@@ -15,7 +15,7 @@ Before running this script:
 
 - **Command**: Run the script with elevated privileges:
   ```bash
-  sudo python3 driveSpeedTest.py
+  sudo python3 DriveSpeedTest.py
   ```
 
 ## Features
